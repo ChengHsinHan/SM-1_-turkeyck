@@ -12,7 +12,7 @@
 
 Ans:
 1.  problem 0(problem 0.py)
-2.![123](https://imgur.com/Uy7lYDO)
+2.![](https://imgur.com/Uy7lYDO)
 One die with 6 sides
 
 Number of trials =  1
