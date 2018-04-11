@@ -12,7 +12,7 @@
 
 Ans:
 1.  problem 0(problem 0.py)
-2.![](https://imgur.com/Uy7lYDO)
+2.![image](<a href="https://imgur.com/Uy7lYDO"><img src="https://i.imgur.com/Uy7lYDO.png" title="source: imgur.com" /></a>)
 One die with 6 sides
 
 Number of trials =  1
@@ -22,7 +22,8 @@ Number of trials =  1
 s, N_s, N_s-N/6, N_s/N, N_s/N-1/6
 
 1 0 -0.16666666666666666 0.0 -0.16666666666666666
-   2 0 -0.16666666666666666 0.0 -0.16666666666666666
+
+2 0 -0.16666666666666666 0.0 -0.16666666666666666
 
 3 0 -0.16666666666666666 0.0 -0.16666666666666666
 
