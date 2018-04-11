@@ -6,7 +6,7 @@ Problem 0:
 5.As you increase the number of trials, does the ratio of the number of times each side occurs to the total number of trials approach closer to 1/6?
 
 Ans:
-1.SM-1_-turkeyck/problem 0.py
+1.  problem 0.py
 2.
 One die with 6 sides
 Number of trials =  1
