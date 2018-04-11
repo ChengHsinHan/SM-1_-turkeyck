@@ -19,9 +19,12 @@ Ans:
 
 
 3.
-![](<a href="https://imgur.com/VkmFoP0"><img src="https://i.imgur.com/VkmFoP0undefined.png" title="source: imgur.com" /></a>)
 
-![](<a href="https://imgur.com/lmwSWPy"><img src="https://i.imgur.com/lmwSWPyundefined.png" title="source: imgur.com" /></a>)
+<a href="https://imgur.com/VkmFoP0"><img src="https://i.imgur.com/VkmFoP0undefined.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/lmwSWPy"><img src="https://i.imgur.com/lmwSWPy.png" title="source: imgur.com" /></a>
+
+
 4.
 As the number of trials increase, differences between the number of times a given side occurs and one-sixth of the number of trials increase.
 
